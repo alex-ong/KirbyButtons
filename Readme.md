@@ -1,7 +1,7 @@
-=== Installation ===
+Installation
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-Keybinds are in ArrowTracker.py.
+Keybinds are in `ArrowTracker.py.`
 
 Items are drawn using overlaying technique.
